@@ -6,6 +6,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+  <li><a href="#trial">Trial</a></li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -34,9 +35,11 @@
   </ol>
 </details>
 
+## Trial
+Will be updated!
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()    
 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 This project edits human face using AI.
