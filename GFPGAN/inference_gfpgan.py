@@ -108,7 +108,7 @@ def main():
         raise ValueError(f'Wrong model version {args.version}.')
 
     # determine model paths
-    model_path = os.path.join('experiments/pretrained_models', model_name + '.pth')
+    model_path = os.path.join('/content/drive/MyDrive', model_name + '.pth')
     if not os.path.isfile(model_path):
         model_path = os.path.join('gfpgan/weights', model_name + '.pth')
     if not os.path.isfile(model_path):
