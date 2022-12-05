@@ -37,7 +37,7 @@
 
 ## Trial
 Will be updated!
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()    
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZDLNRedXLBJbxMWsdbU7uPaHW7OjDAWK?hl=ko#scrollTo=-AxFMnlFW3ic)    
 
 
 ## About The Project
